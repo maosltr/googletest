@@ -1,5 +1,7 @@
 # GoogleTest
 
+Build some examples based to learn a bit
+
 ### Announcements
 
 #### Live at Head
